@@ -29,6 +29,6 @@ Used under the [Unicode License v3](https://www.unicode.org/license.html).
 
 ## 📄 License
 
-Released under CC0 1.0 Public Domain Dedication.
+Released under [CC0 1.0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
 No rights reserved – you may copy, modify, distribute, and use the files for any purpose, without asking permission.
