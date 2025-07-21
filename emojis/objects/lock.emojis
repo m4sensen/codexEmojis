@@ -1,0 +1,6 @@
+LOCKED = "🔒"
+UNLOCKED = "🔓"
+LOCKED_WITH_PEN = "🔏"
+LOCKED_WITH_KEY = "🔐"
+KEY = "🔑"
+OLD_KEY = "🗝"

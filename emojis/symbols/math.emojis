@@ -1,0 +1,6 @@
+MULTIPLY = "✖"
+PLUS = "➕"
+MINUS = "➖"
+DIVIDE = "➗"
+HEAVY_EQUALS = "🟰"
+INFINITY = "♾"

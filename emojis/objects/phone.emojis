@@ -1,0 +1,6 @@
+MOBILE_PHONE = "📱"
+MOBILE_PHONE_WITH_ARROW = "📲"
+TELEPHONE = "☎"
+TELEPHONE_RECEIVER = "📞"
+PAGER = "📟"
+FAX_MACHINE = "📠"
